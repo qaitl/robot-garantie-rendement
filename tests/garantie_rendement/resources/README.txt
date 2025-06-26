@@ -1,0 +1,1 @@
+Ce dossier ne contient QUE les ressources spécifiques à la Test Suite Garantie Rendement

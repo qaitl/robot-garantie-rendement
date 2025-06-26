@@ -1,0 +1,5 @@
+private.py
+.venv
+.private
+secrets.py
+*.pyc

@@ -1,0 +1,8 @@
+{
+    "debugpy.debugJustMyCode": false,
+    "robotcode.debug.attachPython": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pyc": true
+    },
+}

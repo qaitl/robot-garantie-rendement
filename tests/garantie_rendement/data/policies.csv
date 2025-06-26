@@ -1,0 +1,4 @@
+*** Test Cases ***;${policy};[Tags];[Documentation]
+TRIT125412;9030039;;Première police
+TRIT125413;9035614;;Deuxième police
+TRIT125414;9035609;;Troisième police
